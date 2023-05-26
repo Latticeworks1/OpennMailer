@@ -1,7 +1,7 @@
 # OpenMailer
 Open Mailer
 
-Open Mailer is a Python program that enables users to bypass admin login and send emails using a graphical user interface (GUI). It leverages the requests library for making HTTP requests and provides a simple interface for sending mail via proxy domain.
+Open Mailer is a Python program that enables users to bypass admin login and send emails using a graphical user interface (GUI). It leverages the requests library for making HTTP requests and provides a simple framework for sending mail via proxy domain.
 
 Features
 
