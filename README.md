@@ -26,9 +26,9 @@ Usage
 pip install requests
 
 
-	3.	Run the program by executing the open_mailer.py file:
+	3.	Run the program by executing the OpenMailer.py file:
 
-python open_mailer.py
+python OpenMailer.py
 
 
 	4.	The program window will open, allowing you to choose the site from which you want to send the email.
